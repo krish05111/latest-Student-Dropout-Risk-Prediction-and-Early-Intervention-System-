@@ -14,4 +14,4 @@ An AI-based system that predicts student dropout risk using factors such as atte
 Python • Streamlit • Pandas • Scikit-learn
 
 ## Developed By
-**Manasdeep**
+**Krish Virmani**
